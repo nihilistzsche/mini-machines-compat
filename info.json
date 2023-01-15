@@ -1,0 +1,13 @@
+{
+  "name": "mini-machines-compat",
+  "version": "0.0.1",
+  
+  "title": "mini-machines-compat",
+  "description": "Some fixes for mini (and micro)-machines compatibility with other mods",
+  
+  "author": "nihilistzsche",
+  "license": "GPL3",
+  
+  "dependencies": ["base >= 1.1.6", "?mini-machines", "?micro-machines", "?leighzeruraniuminnovations"],
+  "factorio_version": "1.1"
+}
