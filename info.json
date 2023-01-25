@@ -8,6 +8,6 @@
   "author": "nihilistzsche",
   "license": "GPL3",
   
-  "dependencies": ["base >= 1.1.6", "?mini-machines", "?micro-machines", "?leighzeruraniuminnovations"],
+  "dependencies": ["base >= 1.1.6", "?mini-machines", "?micro-machines", "?leighzeruraniuminnovations", "?Electric Furnaces"],
   "factorio_version": "1.1"
 }
