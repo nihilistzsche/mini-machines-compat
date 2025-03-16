@@ -1,0 +1,7 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.0.2
+Date: 2025-03-16
+  Changes:
+    - Updated for Factorio 2.0
+    - Removed the leighzeruranimuminnovations support, not updated for 2.0 and doesn't look like
+      something I'd want to use any more.
